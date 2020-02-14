@@ -1,0 +1,23 @@
+
+.box-generale{
+    display: flex;
+    flex-wrap: wrap;
+    padding:0px 130px 0px 130px;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 2px solid black;
+    margin: 20px;
+    padding:0px 30px 0px 30px ;
+}
+.email{
+    display: flex;
+    align-items: center;
+}
+.edit+sup{
+    display: flex;
+    margin: 20px;
+    
+}
